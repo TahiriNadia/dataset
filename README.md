@@ -5,4 +5,4 @@ Dans ce chapitre, nous appliquerons aux données rélles; biologique et linguist
 ![Indo-European languages tree](https://github.com/TahiriNadia/dataset/tree/master/img/IE_lang.pdf)
 
 # Tree of Archeae dataset
-![Archeae tree](https://github.com/TahiriNadia/dataset/tree/master/img/archeae.png)
+![Archeae tree](https://github.com/TahiriNadia/dataset/tree/master/img/archeae.pdf)
