@@ -10,4 +10,4 @@ Dans ce chapitre, nous appliquerons aux données rélles; biologique et linguist
 
 ### Nadia Tahiri (@TahiriNadia)
 
-I started with Plotly on an intern in April 2018 while finishing my Ph.D. in Computer Science (with Bioinformatics option) and my postdoctoral researcher in machine learning another full time. I joined permanently a nine months later. I'm originally from Dijon (France). I'm excited to become member of DashBio and DashR. I enjoy :book:, :hikking:, :airplane:, :ski:, and :coffee: :-).
+I started with Plotly on an intern in April 2018 while finishing my Ph.D. in Computer Science (with Bioinformatics option) and my postdoctoral researcher in machine learning another full time. I joined permanently a nine months later. I'm originally from Dijon (France). I'm excited to become member of DashBio and DashR. I enjoy :book:, :walk:, :airplane:, :ski:, and :coffee: :-).
