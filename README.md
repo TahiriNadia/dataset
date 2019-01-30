@@ -7,7 +7,3 @@ Dans ce chapitre, nous appliquerons aux données rélles; biologique et linguist
 
 # Tree of Archeae dataset
 ![Archeae tree](https://user-images.githubusercontent.com/19578926/31561183-14ac63ae-b025-11e7-8131-de2e48130080.jpg)
-
-### Nadia Tahiri (@TahiriNadia)
-
-I started with Plotly on an intern in April 2018 while finishing my Ph.D. in Computer Science (with Bioinformatics option) and my postdoctoral researcher in machine learning another full time. I joined permanently a nine months later. I'm originally from Dijon (France). I'm excited to become member of DashBio and DashR. I enjoy :book:, :walk:, :airplane:, :ski:, and :coffee: :-).
