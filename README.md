@@ -7,3 +7,6 @@ Dans ce chapitre, nous appliquerons aux données rélles; biologique et linguist
 
 # Tree of Archeae dataset
 ![Archeae tree](https://user-images.githubusercontent.com/19578926/31561183-14ac63ae-b025-11e7-8131-de2e48130080.jpg)
+
+
+([@TahiriNadia](https://github.com/TahiriNadia))
